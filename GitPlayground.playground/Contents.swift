@@ -4,7 +4,7 @@ import UIKit
 
  var str = "Hello, playground"
  
- func addTwoThings(thing1: Int, thing2: Int) -> Int {
+ func addTwoThings(thing1: Double, thing2: Double) -> Double {
     return thing1 + thing2
  }
  
