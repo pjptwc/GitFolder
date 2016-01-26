@@ -10,6 +10,8 @@ import UIKit
  
  
  // when i add 1 and 2, it should equal 3
- addTwoThings(1, thing2:2)
+ addTwoThings(1, thing2:2).dynamicType
+(1+2)
+ //a;lakjsdf;lkaskdf;ja;jasd
  addTwoThings(2, thing2: 4)
  addTwoThings(0, thing2: 0)
